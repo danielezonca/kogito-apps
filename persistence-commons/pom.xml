@@ -16,6 +16,7 @@
   <modules>
     <module>persistence-commons-api</module>
     <module>persistence-commons-infinispan</module>
+    <module>persistence-commons-java</module>
     <module>persistence-commons-protobuf</module>
   </modules>
 
